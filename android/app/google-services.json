@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470671337170",
+    "project_id": "fir-nativerevancha",
+    "storage_bucket": "fir-nativerevancha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470671337170:android:da1877b06da5c71e45ef0b",
+        "android_client_info": {
+          "package_name": "com.firebaserevancha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470671337170-0bc7gn21j9r7kgg8mtqis46ch8sad4l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaserevancha",
+            "certificate_hash": "da3f38ae39437f9fb823a9c17c18aef420d3f454"
+          }
+        },
+        {
+          "client_id": "470671337170-3vtnbeq57lfsfqmjet2883pafrq8ds20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjMiNOQq4s1D2538KuttiwG7haWy6TMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470671337170-3vtnbeq57lfsfqmjet2883pafrq8ds20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
